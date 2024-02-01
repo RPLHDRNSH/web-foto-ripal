@@ -80,7 +80,7 @@
               </div>
             </div>
             <div class="text-center">
-              <h1 class="text-4xl font-bold tracking-tight text-gray-50 sm:text-6xl">Data to enrich your online business</h1>
+              <h1 class="text-4xl font-bold tracking-tight text-gray-50 sm:text-6xl">WELLCOME THE GALLERY PHOTO RPLHDRNSH</h1>
               <p class="mt-6 text-lg leading-8 text-gray-50">Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat aliqua.</p>
               <div class="mt-10 flex items-center justify-center gap-x-6">
                 <a href="#" class="rounded-md bg-lime-500 px-3.5 py-2.5 text-sm font-semibold text-black shadow-sm hover:bg-lime-700 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-lime-500">Get started</a>
